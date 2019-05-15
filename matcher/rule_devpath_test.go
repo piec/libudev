@@ -1,7 +1,7 @@
 package matcher
 
 import (
-	"github.com/citilinkru/libudev/types"
+	"github.com/piec/libudev/types"
 	"testing"
 )
 

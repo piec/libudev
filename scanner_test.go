@@ -1,7 +1,7 @@
 package libudev
 
 import (
-	"github.com/citilinkru/libudev/matcher"
+	"github.com/piec/libudev/matcher"
 	"testing"
 )
 
